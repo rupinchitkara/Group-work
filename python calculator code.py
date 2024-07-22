@@ -1,3 +1,5 @@
+Ritwik Singh
+
 print("Welcome to calculator!!")
 a = int(input("add first number"))
 b = int(input("add second number"))
